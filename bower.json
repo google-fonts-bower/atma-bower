@@ -1,0 +1,17 @@
+{
+    "name": "atma-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Black Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/atma-bower.git"
+    },
+    "description": "Atma font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
